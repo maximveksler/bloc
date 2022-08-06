@@ -7,8 +7,7 @@ environment:
   sdk: ">=2.17.0 <3.0.0"
 
 dependencies:
-  bloc: ^8.0.1
-  firebase_core: ^1.13.1
+  bloc: ^8.1.0
   firestore_todos_api:
     path: packages/firestore_todos_api
   flutter:
